@@ -30,7 +30,7 @@ This project is about classification of breast cancer tissue sections into four 
 
 • For output layer,'softmax'is chosen as activation function because of categorical classification
 
- After create model, model is compiled with “adam” optimizer, ”mse” loss and “accuracy” metrics
+• After create model, model is compiled with “adam” optimizer, ”mse” loss and “accuracy” metrics
  
 • Dataset is trained with 10 epoch and 1000 batch size, and model is evaluated, the results shown in pictures below
 
